@@ -25,7 +25,7 @@
       </div>
       <div class="content">
         <h2>紹介</h2>
-        <p>ここは紹介用のページです。おったん部屋についての紹介をここに書きます。</p>
+        <p>我が名はおったん🎶<br>実家を生業とし怠惰を極めし者！</p>
       </div>
     </div>
     <div id="game" class="section game-section">
@@ -34,7 +34,7 @@
       </div>
       <div class="content">
         <h2>遊戯</h2>
-        <p>ここは遊戯用のページです。楽しいゲームやアクティビティについて書きます。</p>
+        <p><a class="twitter-timeline" href="https://twitter.com/kamekame5312?ref_src=twsrc%5Etfw">Tweets by kamekame5312</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
       </div>
     </div>
     <div id="blog" class="section blog-section">
