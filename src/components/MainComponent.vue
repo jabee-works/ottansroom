@@ -35,6 +35,7 @@
       <div class="content">
         <h2>遊戯</h2>
         <p><a class="twitter-timeline" href="https://twitter.com/kamekame5312?ref_src=twsrc%5Etfw">Tweets by kamekame5312</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+        <p>おったんのゲーム実況は<a href="https://www.twitch.tv/nanasin5555" target="_blank">こちら</a></p>
       </div>
     </div>
     <div id="blog" class="section blog-section">
