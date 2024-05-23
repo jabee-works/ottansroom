@@ -36,6 +36,7 @@
         <h2>遊戯</h2>
         <p><a class="twitter-timeline" href="https://twitter.com/kamekame5312?ref_src=twsrc%5Etfw">Tweets by kamekame5312</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
         <p>おったんのゲーム実況は<a href="https://www.twitch.tv/nanasin5555" target="_blank">こちら</a></p>
+        <p>おったんとの擬似会話は<a href="https://chatgpt.com/g/g-Xs9rels2v-otutankun" target="_blank">こちら</a></p>
       </div>
     </div>
     <div id="blog" class="section blog-section">
@@ -54,6 +55,10 @@
       <div class="content">
         <h2>質疑</h2>
         <p>ここは質疑用のページです。質問や疑問に答えます。</p>
+        <ul>
+          <li class="question">Q. なぜ働かないのですか？</li>
+          <li class="answer">A. 働いてないように見えるだけじゃよ。すべてはそういうことじゃ。</li>
+        </ul>
       </div>
     </div>
   </div>
