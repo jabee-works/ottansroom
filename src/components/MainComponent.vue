@@ -55,7 +55,7 @@
       <div class="content">
         <h2>質疑</h2>
         <p>ここは質疑用のページです。質問や疑問に答えます。</p>
-        <ul>
+        <ul class="faq">
           <li class="question">Q. なぜ働かないのですか？</li>
           <li class="answer">A. 働いてないように見えるだけじゃよ。すべてはそういうことじゃ。</li>
         </ul>
