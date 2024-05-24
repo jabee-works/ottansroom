@@ -290,4 +290,16 @@ export default {
 .door-container.open .door-right {
   transform: translateX(100%);
 }
+
+ul.faq li {
+  list-style-type: none;
+  text-align: left;
+  text-decoration: underline;
+}
+.question {
+  color: red;
+}
+.answer {
+  font-size: 120%;
+}
 </style>
