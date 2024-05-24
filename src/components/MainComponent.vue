@@ -295,6 +295,8 @@ ul.faq li {
   list-style-type: none;
   text-align: left;
   text-decoration: underline;
+  font-size: 1.2em;
+  padding: 10px;
 }
 .question {
   color: red;
